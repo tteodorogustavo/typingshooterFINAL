@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Tabela
+comment1.params=historico
+comment1.target=Tabela(Historico)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ verificarReiniciar()
+numComments=4

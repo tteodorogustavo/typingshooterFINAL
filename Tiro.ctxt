@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Tiro
+comment1.params=speed\ alvo
+comment1.target=Tiro(int,\ greenfoot.Actor)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=alvo
+comment3.target=void\ atirarPara(greenfoot.Actor)
+comment4.params=
+comment4.target=void\ removeInimigo()
+comment5.params=
+comment5.target=void\ removeTiro()
+numComments=6
